@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "firstname": "Jimmy",
+      "lastname": "Hendrix",
+      "phone": "473842323",
+      "role": "student",
+      "message": "rtyeufdhjcjkweiu"
+    },
+    {
+      "id": 2,
+      "firstname": "B.B.",
+      "lastname": "King",
+      "phone": "98765432",
+      "role": "teacher",
+      "message": "Hi Jimmy!"
+    },
+    {
+      "id": 3,
+      "firstname": "Ringo",
+      "lastname": "Star",
+      "phone": "1234567",
+      "role": "other",
+      "message": "What a ......!!!"
+    },
+    {
+      "firstname": "R.E.M.",
+      "lastname": "-----",
+      "phone": "548457475",
+      "role": "Other",
+      "message": "-------",
+      "id": 4
+    }
+  ]
+}

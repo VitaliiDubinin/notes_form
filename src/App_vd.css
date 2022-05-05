@@ -1,0 +1,76 @@
+main {
+  background-color: rgb(63, 71, 240);
+  display: block;
+}
+
+.inputForm {
+  color: white;
+  display: inline-block;
+  max-width: 240px;
+  margin: 1.5rem auto;
+}
+
+label {
+  display: inline-block;
+}
+
+.feedback-input {
+  color: black;
+  font-weight: 500;
+  font-size: 1.6rem;
+  border-radius: 5px;
+  /* line-height: 22px; */
+  background-color: white;
+  /* border: 2px solid #cc6666; */
+  /* border: 2px solid #f4c873; */
+  transition: all 0.3s;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  outline: 0;
+  /* display: inline-block; */
+}
+
+.fRow {
+  width: 2rem;
+  /* border: none; */
+  border-right-style: dotted;
+  border-right-color: red;
+  border-right-width: 0.1rem;
+  border-left: none;
+  /* border-bottom: none; */
+}
+.sRow {
+  width: 8rem;
+  border-left-style: dotted;
+  border-left-color: red;
+  border-left-width: 0.1rem;
+  border-right: none;
+}
+.tRow {
+  width: 22rem;
+  border-left: none;
+}
+
+tr {
+  /* border-bottom: none;
+  border-top: none; */
+  color: black;
+}
+table {
+  border: none;
+  background-color: white;
+}
+
+td {
+  margin: 0;
+  padding: 0;
+  /* border-bottom: none; */
+  border-top: none;
+}
+
+.inpbox {
+  display: flex;
+  background-color: rgb(63, 71, 240);
+}
